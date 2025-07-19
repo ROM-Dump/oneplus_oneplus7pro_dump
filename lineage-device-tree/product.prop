@@ -1,0 +1,11 @@
+# Audio
+audio.offload.min.duration.secs=30
+audio.sys.noisy.broadcast.delay=600
+audio.sys.offload.pstimeout.secs=3
+
+# Miscellaneous
+ro.com.google.gmsversion=10_202009
+ro.opa.eligible_device=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+

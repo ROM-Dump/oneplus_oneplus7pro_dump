@@ -1,0 +1,20 @@
+## OnePlus7Pro-user 10 QKQ1.190716.003 2101212056 release-keys
+- Manufacturer: oneplus
+- Platform: msmnile
+- Codename: OnePlus7Pro
+- Brand: OnePlus
+- Flavor: OnePlus7Pro-user
+- Release Version: 10
+- Kernel Version: 4.14.117
+- Id: QKQ1.190716.003
+- Incremental: 2101212056
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: OnePlus/OnePlus7Pro/OnePlus7Pro:10/QKQ1.190716.003/2101212056:user/release-keys
+- OTA version: OnePlus7ProOxygen_21.P.32_GLO_032_2101280003
+- Branch: OnePlus7Pro-user-10-QKQ1.190716.003-2101212056-release-keys
+- Repo: oneplus_oneplus7pro_dump
